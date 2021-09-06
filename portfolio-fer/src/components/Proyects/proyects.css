@@ -1,0 +1,18 @@
+.proyects-container{
+     border: 1px solid white;
+     height: auto;
+     width: 20rem;
+     margin: 5% auto;
+}
+
+.proyects-container-object{
+     border: 1px solid pink;
+     margin: 2% auto;
+}
+
+.proyects-container-image{
+     border: 1px solid green;
+     height: auto;
+     width: 19rem;
+     margin: 0 auto;
+}
