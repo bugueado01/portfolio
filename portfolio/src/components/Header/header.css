@@ -1,0 +1,33 @@
+.title {
+  font-family: 'Noto Sans Mono', monospace;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.menu {
+  display: flex;
+  border-bottom: 2px solid red;
+}
+
+.icon-container{
+  width: 20%;
+  padding: 2%;
+}
+
+.icon-image {
+  width: 100%;
+}
+
+.menu-list-container {
+  /* display: block; */
+}
+
+.menu-list li{
+  list-style: none;
+  font-size: 1.2rem;
+  text-align: left;
+  margin: 15px 0;
+  border-bottom: 1px solid red;
+  width: 50%;
+  font-family: 'Noto Sans Mono', monospace;
+}
