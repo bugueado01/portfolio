@@ -1,0 +1,20 @@
+.skill-container {
+  padding: 0 10px;
+  margin: 5px auto;
+  /* width: 45%; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.skill-image{
+  width: 80%;
+  margin: 0 auto;
+  
+}
+
+.skill-text {
+  font-family: 'Noto Sans Mono', monospace;
+  font-size: 0.8rem;
+  text-align: center;
+}

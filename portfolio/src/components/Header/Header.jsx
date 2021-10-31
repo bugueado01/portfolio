@@ -2,8 +2,6 @@ import React, { useState } from "react";
 import "./header.css";
 import menuIcon from "./menu-hamburguer.png";
 
-// const hamburguerIcon = require('./menu-hamburguer.png')
-
 const Header = () => {
   const [menuResponsive, setMenuResponsive] = useState(false);
 
@@ -26,7 +24,7 @@ const Header = () => {
         <div className="menu-list-container">
           <ul className="menu-list">
             <li>Proyectos</li>
-            <li>Blog</li>
+            <li>Artículos</li>
             <li>Contacto</li>
           </ul>
         </div>
