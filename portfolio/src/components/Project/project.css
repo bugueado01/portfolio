@@ -1,0 +1,22 @@
+.project-container {
+  width: 18rem;
+  height: 15rem;
+  margin: 20px 0;
+  border-right: 1px solid red;
+}
+
+.project-image {
+  height: 100%;
+  position: absolute;
+}
+
+.project-description-container {
+  position: relative;
+  top: 12rem;
+  background-color: white;
+  border-bottom: 2px solid red;
+  height: auto;
+  font-family: 'Noto Sans Mono', monospace;
+  font-weight: bold;
+  padding: 11px;
+}
